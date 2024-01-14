@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raneen Alshehri</h1>
 <h3 align="center">Welcome to my GitHub Profile !</h3>
 
-- 👨‍🎓 I am a senior **data science and analysis student**
+- 👨‍🎓  **data science and analysis ** fresh graduate
 
-- 📚 I’m learnig about **Python, SQL, Power BI, Tableau, and ML.**
+- 📚 I’m learnig about **Python, SQL, Power BI, Tableau, ML, and DL**
 
 - 👨‍💻 I like expanding my knowledge and discovering new things every day .
 
